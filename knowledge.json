@@ -1,0 +1,21 @@
+{
+  "product_info": {
+    "AutoStream_Pricing_Features": {
+      "Basic_Plan": {
+        "price": "$29/month",
+        "videos_allowed": "10 videos/month",
+        "resolution": "720p resolution"
+      },
+      "Pro_Plan": {
+        "price": "$79/month",
+        "videos_allowed": "Unlimited videos",
+        "resolution": "4K resolution",
+        "features": ["AI captions"]
+      }
+    },
+    "Company_Policies": {
+      "refunds": "No refunds after 7 days",
+      "support": "24/7 support available only on Pro plan"
+    }
+  }
+}
